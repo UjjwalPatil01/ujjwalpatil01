@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Ujjwal Pradip Patil
 
-🎓 Computer Engineering | 📊 Data Analytics | 🐍 Python Developer
+🎓 Computer Engineer | 📊 Data Analytics | 🐍 Python Developer
 
 ---
 
