@@ -1,35 +1,34 @@
 # 👋 Hi, I’m Ujjwal Pradip Patil
 
-🎓 Computer Engineer | 📊 Data Analytics | 🐍 Python Developer
+🎓 Final Year Computer Engineering Student  
+🌐 Web Development & SQL Basics  
+📍 Maharashtra, India
 
 ---
 
 ## 🔍 About
-I transform messy datasets into clear insights and actionable dashboards. Experienced with Python (Pandas, NumPy), data visualization, and end-to-end analytics workflows. Building tools and projects that bridge engineering rigor with real-world impact.
+I am a final year Computer Engineering student with hands-on experience in web development through an academic project and a remote internship. 
+I have worked with HTML, CSS, JavaScript, and SQL fundamentals, and have experience deploying web applications. 
+I am interested in entry-level IT, Graduate Engineer, and web-related roles.
 
 ---
 
-## 🛠️ Skills & Tools
-- **Languages:** Python, Java, SQL  
-- **Data & ML:** Pandas, NumPy, scikit-learn, Matplotlib, Seaborn  
-- **Tools:** Jupyter, Git, Power BI, Docker (basics)  
+## 🛠️ Skills
+- HTML, CSS, JavaScript
+- SQL (Basic)
+- Git & GitHub
+- Responsive Web Design
+- Web Hosting (Netlify)
 
 ---
 
-## 📌 Selected Projects
-- **Virtual Herbal Garden** — VR-based herbal garden web app (data + UX case study).  
-- **Mental Health Sentiment App** — Voice → sentiment → auto-journal pipeline.  
-- **Data Analysis Demos** — Data cleaning, EDA, and visual storytelling notebooks.
-
-*(See pinned repositories for links and detailed case studies.)*
+## 📌 Projects
+- **3D Virtual Herbal Garden Web Application**  
+  A college team project showcasing herbal plants and their information using web technologies.  
+  🔗 Live Demo: https://virtual-herbal-garden-hub.netlify.app/
 
 ---
 
 ## 📫 Contact
 - LinkedIn: https://www.linkedin.com/in/ujjwalpatil001  
-- Portfolio:  
 - Email: ujjwalpatil163@gmail.com
-
----
-
-“Turning data into decisions, and ideas into impact.”
