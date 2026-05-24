@@ -1,74 +1,122 @@
-# 👋 Hi, I’m Ujjwal Patil
+# <div align="center">👋 Hi, I'm Ujjwal Patil</div>
 
-🚀 AI-Powered Python Developer | Full Stack Developer | AI Tools Specialist  
-🎓 Final Year Computer Engineering Student  
-📍 Maharashtra, India  
+<div align="center">
 
----
+### Generative AI & ML Engineer  
+Building Intelligent AI Systems, AI Products & Scalable Full-Stack Applications
 
-## 🔥 About Me
-I am a final-year Computer Engineering student focused on building **scalable AI-powered web applications** using Python and modern AI tools.
-
-I specialize in:
-- Rapid development using AI-assisted workflows
-- Debugging and optimizing real-world applications
-- Designing backend APIs and full-stack systems
-
-I actively build and deploy projects that solve real problems using **LLMs, APIs, and modern web technologies**.
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+# 🚀 About Me
 
-### 💻 Languages
-Python, Java, C, C++
-
-### 🌐 Frontend
-HTML, CSS, JavaScript, React
-
-### ⚙️ Backend & APIs
-Flask, FastAPI, REST APIs, API Integration
-
-### 🧠 AI & Prompt Engineering
-ChatGPT, Claude, Gemini, Structured Prompting
-
-### 🗄️ Databases
-MongoDB, MySQL
-
-### 🧰 Tools & Platforms
-Git, GitHub, Render, VS Code
+- 🤖 Focused on **Generative AI, Machine Learning, and Intelligent Systems**
+- 🧠 Building AI-powered applications using **LLMs, APIs, and modern AI workflows**
+- ⚡ Skilled in full-stack development, backend systems, and AI integrations
+- 🔍 Interested in AI agents, NLP, recommendation systems, and AI automation
+- 🌱 Continuously building real-world AI products and scalable systems
 
 ---
 
-## 🚀 Projects
+# 🛠️ Tech Stack
 
-### 🔥 Codenova AI Code Reviewer
-🔗 https://codenova-ui.onrender.com/  
-- AI-powered system that analyzes code and provides improvement suggestions  
-- Built using LLM APIs and structured prompt engineering  
-- Designed backend APIs for processing and response generation  
+## 💻 Languages
+`Python` `Java` `C` `C++` `JavaScript`
 
----
+## 🌐 Frontend
+`React` `HTML` `CSS` `JavaScript`
 
-### ✅ Smart Task Manager
-🔗 https://smart-task-manager-ri8k.onrender.com/  
-- Full-stack task management app with CRUD operations  
-- Built with scalable backend and responsive UI  
-- Deployed with live hosting and version control  
+## ⚙️ Backend & APIs
+`Flask` `FastAPI` `REST APIs` `API Integration`
 
----
+## 🧠 AI / ML
+`OpenAI APIs` `Gemini APIs` `Claude AI` `Prompt Engineering` `LLMs`
 
-### 🌿 3D Virtual Herbal Garden
-🔗 https://virtual-herbal-garden-hub.netlify.app/  
-- Team project showcasing herbal plants using web technologies  
-- Implemented front-end features and handled deployment  
+## 🗄️ Databases
+`MongoDB` `MySQL`
+
+## 🧰 Tools & Platforms
+`Git` `GitHub` `Render` `Vercel` `VS Code`
 
 ---
 
-## 📫 Contact
-- LinkedIn: https://www.linkedin.com/in/ujjwalpatil001  
-- Email: ujjwalpatil163@gmail.com  
+# 🌟 Featured Projects
+
+
+## 🧠 MoodMate AI — Mental Wellness Assistant
+
+AI-powered emotional wellness platform focused on intelligent support systems and AI-driven interaction experiences.
+
+### Highlights
+- AI-powered conversational workflows
+- Intelligent emotional interaction design
+- Scalable modern web architecture
+- Product-focused AI experience
 
 ---
 
-⭐ Always learning, building, and exploring AI-powered development
+## 🔥 CodeNova AI — Intelligent Code Reviewer
+🔗 https://codenova-ui.onrender.com/
+
+AI-powered code review platform that analyzes source code and generates intelligent improvement suggestions using LLM APIs.
+
+### Key Features
+- AI-based bug detection & optimization suggestions
+- Structured prompt engineering workflows
+- Backend API architecture for AI processing
+- Real-time response generation
+
+---
+
+## ✅ Smart Task Manager
+🔗 https://smart-task-manager-ri8k.onrender.com/
+
+Full-stack productivity application with scalable backend systems and responsive UI.
+
+### Features
+- CRUD-based task management
+- Responsive interface
+- Backend API integration
+- Cloud deployment support
+
+---
+
+## 🌿 3D Virtual Herbal Garden
+🔗 https://virtual-herbal-garden-hub.netlify.app/
+
+Interactive web-based herbal plant showcase project built with modern frontend technologies.
+
+---
+
+# 📈 Current Focus
+
+- Generative AI Applications
+- AI Product Engineering
+- Intelligent Automation Systems
+- Full-Stack AI Platforms
+- Production-Ready AI Workflows
+
+---
+
+# 🌐 Connect With Me
+
+- 💼 LinkedIn  
+  https://www.linkedin.com/in/ujjwalpatil-ai
+
+- 🌍 Portfolio  
+  https://ujjwal-ai-portfolio.vercel.app
+
+- 🤗 Hugging Face  
+  https://huggingface.co/ujjwalpatil
+
+- 📧 Email  
+  ujjwalpatil163@gmail.com
+
+---
+
+<div align="center">
+
+### ⚡ Building AI systems that solve real-world problems.
+
+</div>
